@@ -3,7 +3,7 @@
 2. Adım: cookieparse.py dosyasındaki 40. satıra bir bot tokeni gir ardından modülleri kur. (pip install requests - pip install discord - pip install os - pip install time)
 3. Adım: baslat.bat adlı programı çalıştır. 
 
-&
+### &
 
 # EN:
 Step 1: Install NodeJS and Python on the device (don't forget to press the Add Path button!) 
