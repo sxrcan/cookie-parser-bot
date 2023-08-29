@@ -12,10 +12,16 @@
 ## Step 3: Run the program called baslat.bat. 
 ## Step 4: send the cookie to the bot via dm (.txt only)
 
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 ## BOT BENİM ÇALANIN ANASINI SİKERİ
