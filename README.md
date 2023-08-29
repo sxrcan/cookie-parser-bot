@@ -8,6 +8,7 @@
 
 # EN:
 Step 1: Install NodeJS and Python on the device (don't forget to press the Add Path button!) 
+
 Step 2: Enter a bot token on line 40 in cookieparse.py and then install the modules (pip install requests - pip install discord - pip install os - pip install time)
 Step 3: Run the program called baslat.bat. 
 Step 4: send the cookie to the bot via dm (.txt only)
